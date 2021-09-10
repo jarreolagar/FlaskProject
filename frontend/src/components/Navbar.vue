@@ -12,9 +12,7 @@
       <li class="nav-item">
         <router-link class="btn btn-primary" to="/leer_entrada">Entradas</router-link>
       </li>
-      <li class="nav-item">
-        <router-link class="btn btn-primary" to="/escribeme">Sobre mi</router-link>
-      </li>
+      
     </ul>
   </div>
 </nav>
